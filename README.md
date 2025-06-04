@@ -10,5 +10,4 @@
 - 🤔 I’m looking for help with ideas to upskill
 - 💬 Ask me about data contents
 - 📫 How to reach me: X, LinkedIn
-- 😄 Pronouns: She
 - ⚡ Fun fact: Data is Life

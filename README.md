@@ -1,18 +1,14 @@
-## Hi there 👋
-I'm currently working on data visualization projects																																																														
-Ask me anything about data visualization																																																																								
-Data is Life
-<!--
-**Kaywinie/Kaywinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# catherine_wilfred
 
-Here are some ideas to get you started:
+# Education
+- Nnamdi Azikiwe University (B.Sc Economics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+- 🔭 I’m currently working on data visualization projects
+- 🌱 I’m currently improving on Python
+- 👯 I’m looking to collaborate with Data Analyst around the world
+- 🤔 I’m looking for help with ideas to upskill
+- 💬 Ask me about data contents
+- 📫 How to reach me: X, LinkedIn
+- 😄 Pronouns: She
+- ⚡ Fun fact: Data is Life
